@@ -12,4 +12,4 @@ The Fundamentals of Data Science are a series of beginner-friendly tutorials (ba
 - How to troubleshoot a machine learning model
 
 ### Details
-Each tutorial will cover a specific data science, and the code will be written in Python. The code from each stream can be found in the `notebooks` folder, under the appropriate folder (named according to topic), and the blackboard notes in the `blackboard` folder. For more information or if you have questions, please join the [Discord](https://discord.gg/4QUDdWn) or reach out on [Twitter](https://twitter.com/Enceladosaurus). 
+Each tutorial will cover a specific data science, and the code will be written in Python. The code from each stream can be found in the `notebooks` folder, and the blackboard notes in the `blackboard` folder. For more information or if you have questions, please join the [Discord](https://discord.gg/4QUDdWn) or reach out on [Twitter](https://twitter.com/Enceladosaurus). 
