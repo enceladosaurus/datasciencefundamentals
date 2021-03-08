@@ -6,7 +6,7 @@ The Fundamentals of Data Science are a series of beginner-friendly tutorials (ba
 ### History
 - [January 24th, 2021: Exploratory Data Analysis](https://youtu.be/Figp9e0-Ygg)
 - [January 31st, 2021: Preprocessing, Scaling, and Dimensionality Reduction](https://youtu.be/YHek3rbC-Z0)
-- February 14th, 2021: Getting Started with ML - Gradient Boosted Trees
+- [February 14th, 2021: Getting Started with ML - Gradient Boosted Trees](https://youtu.be/6HoAzVN5P0o)
 
 ### Upcoming Topics
 - Model selection 101
